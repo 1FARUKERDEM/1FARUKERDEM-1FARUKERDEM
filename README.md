@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="Ömer Faruk Erdem — Software • AI • Security" width="100%" />
+
 # 👋 Hey! I'm Ömer Faruk Erdem
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Aspiring+Software+Developer;Cybersecurity+%26+AI+Enthusiast;Building+a+Secure+Future)](https://git.io/typing-svg)
 
