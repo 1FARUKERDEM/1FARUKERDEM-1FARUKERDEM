@@ -33,12 +33,12 @@
 ---
 
 ## 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=1FARUKERDEM&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## [![trophy](https://github-profile-trophy.vercel.app/?username=1FARUKERDEM&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=1FARUKERDEM&theme=radical)](https://git.io/streak-stats)
+## [![GitHub Streak](https://streak-stats.demolab.com?user=1FARUKERDEM&theme=radical)](https://git.io/streak-stats)
 
 ---
 
