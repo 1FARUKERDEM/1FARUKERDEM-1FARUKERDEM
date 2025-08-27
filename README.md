@@ -60,10 +60,6 @@
 
 ---
 
-
-
----
-
 ## 👀 Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=1FARUKERDEM&label=Profile%20Views&color=brightgreen&style=flat)
 
@@ -94,13 +90,6 @@
 ✨ *"Code. Secure. Build the future."*  
 
 
----
-
-## 🏆 Achievements
-## [![trophy](https://github-profile-trophy.vercel.app/?username=1FARUKERDEM&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
----
 
 ## 📬 Contact
 - 📧 **sakarya.faruk@hotmail.com**  
