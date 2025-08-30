@@ -4,17 +4,15 @@
 🌍 *Building a Secure Future*  
 
 💻 **Aspiring Software Developer** | 🔐 **Cybersecurity & AI Enthusiast**  
-📚 Currently learning **Python** and working on **AI & Security projects**  
+📚 Currently learning **Python** and working on ** cyber security projects**  
 🎯 Goal: Build **professional-grade software projects** and create tools for a **more secure world**  
 
 ---
 
 ## 🚀 Learning Journey
 - 🐍 Python 100 Days of Code *(In Progress)*  
-- 🤖 AI 100 Days of Code *(In Progress)*  
-- 🛡️ Ethical Hacking & Pentesting Courses *(Coming Soon)*  
-
----
+- 🛡️ Ethical Hacking & Pentesting Courses *(In Progress)*  
+--
 
 ## 🛠️ Technologies I Use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,12 +27,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=1FARUKERDEM&show_icons=true&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1FARUKERDEM&layout=compact&theme=radical&hide_border=true)  
 
----
-
-## 👀 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=1FARUKERDEM&label=Profile%20Views&color=brightgreen&style=flat)
-
----
 
 ## 📬 Contact & Socials (List)
 - [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/1FARUKERDEM)  
@@ -57,10 +49,6 @@
 </p>
 
 ---
-
-✨ *"Code. Secure. Build the future."*  
-
-
 
 ## 📬 Contact
 - 📧 **sakarya.faruk@hotmail.com**  
